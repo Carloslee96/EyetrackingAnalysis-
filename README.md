@@ -1,5 +1,6 @@
 # EyetrackingAnalysis-
-Eye-tracking Analysis for Performance Assessment in Colonoscopy
+The projec aims to study Eye-tracking Analysis for Performance Assessment in Colonoscopy. The programming of the project is based on Pygaze Open eye-tracking source.
+
 numpy 1.13.1
 matplotlib 2.0.2
 
