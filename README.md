@@ -4,13 +4,13 @@ numpy 1.13.1
 matplotlib 2.0.2
 
 Object: Raw data of eyetracking points ('input_data\car10\car10_o1_720p')
-Use 'fixation' to come out fixation points stored in 'output_fixation\ object_data.file'  
-Use 'plot_heatmap' to come out  heatmap images stored in 'output_heatmap\ object.file'
+1. Use 'fixation' to come out fixation points stored in 'output_fixation\ object_data.file'  
+2. Use 'plot_heatmap' to come out  heatmap images stored in 'output_heatmap\ object.file'
 
 Object: Fixation points ('output_fixation\car10_data\car10_fix_1')
-Use 'plot_fixation' to come out  fixation images stored in 'output_fixation\ object.file'
-Use 'plot_fixation' to come out  scanpath images stored in 'output_scanpath\ object.file'
-Use 'index' to come out 'Dwelling Time' and 'Reaction Time' and  'Number of fixation points in the ROI' stored in  'output_index\ car10_14obs'
+1. Use 'plot_fixation' to come out  fixation images stored in 'output_fixation\ object.file'
+2. Use 'plot_fixation' to come out  scanpath images stored in 'output_scanpath\ object.file'
+3. Use 'index' to come out 'Dwelling Time' and 'Reaction Time' and  'Number of fixation points in the ROI' stored in  'output_index\ car10_14obs'
 
 Raw data contains 46833 eye tracking points  
 Fixation data contains 100-500 fixation points
